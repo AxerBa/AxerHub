@@ -13,7 +13,6 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industri
 <br/>
 Welcome to the repository of Ez Hub. Ez Hub is an open source script hub with exclusive scripts. It does not log any information regarding the client. Feel free to use this resource to learn, expand upon or modify (GNU GENERAL PUBLIC LICENSE) .<br/>
 <br/>
-Changelog and Docs: https://app.archbee.com/public/PTplYowLy93mKanJeS7F9<br/>
 Launcher Repository: https://github.com/debug420/Ez-Industries-Launcher-Data<br/>
 If you wish to contact me, you can do so on Discord: cottient<br/>
 <br/>
